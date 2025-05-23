@@ -240,8 +240,6 @@ if process_btn:
 import plotly.express as px
 import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
-import seaborn as sns
 
 
 if st.session_state.processing:
